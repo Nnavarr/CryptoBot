@@ -1,0 +1,6 @@
+# files to ignore
+.venv
+/data
+*.pdf
+*test.py
+CryBot.py
