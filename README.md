@@ -1,8 +1,8 @@
-# CryBot
+# CryptoBot
 
 ---
 
-## Welcome to the CryBot Readme! :robot:
+## Welcome to the CryptoBot Readme! :robot:
 
 The purpose of this repository is to document the development of our very first trading bot. The bot will be broken out into 3 broad classes:
 
